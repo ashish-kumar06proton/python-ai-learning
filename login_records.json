@@ -1,0 +1,7 @@
+[
+    {"username": "Ashish", "failed_attempts": 0},
+    {"username": "Karan", "failed_attempts": 8},
+    {"username": "Sara", "failed_attempts": 1},
+    {"username": "Mika", "failed_attempts": 3},
+    {"username": "Leena", "failed_attempts": 10}
+]
